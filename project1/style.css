@@ -2,12 +2,12 @@ body {
 	background-color: white; text-align: center;
 }
 h1 {
-	color: #66ff33;
+	color: red;
 	font-family: Bangers, Impact;
 	font-size: 72px;
 }
 h2 {
-	color: black;
+	color: #66ff33;
 	font-family: Rock Salt, cursive;
 }
 h3 {
