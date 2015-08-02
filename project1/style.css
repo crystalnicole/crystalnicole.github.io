@@ -1,4 +1,6 @@
 body {
+	color: black;
+	font-family: Questrial, helvetica;
 	background-color: white; text-align: center;
 }
 h1 {
@@ -14,7 +16,8 @@ h3 {
 	color: black;
 	font-family: Lobster, Impact;
 }
-body {
-	color: black;
-	font-family: Questrial, helvetica;
+#wrapping {
+	background-color: yellow;
+	width: 1000px;
+	margin: auto;
 }
