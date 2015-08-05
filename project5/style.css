@@ -1,12 +1,12 @@
 body {
 	color: green;
-	font-family: helvetica;
-	background-color: #7fdbff; 
+	font-family: helvetica; 
 	text-align: center;
 }
 h1 {
 font-family: Anton, helvetica;
 font-size: 500%;
+background-color: #7fdbff;
 }
 h2 {
 color: black;
