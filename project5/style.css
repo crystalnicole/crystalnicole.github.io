@@ -4,6 +4,12 @@ body {
 	background-color: white; 
 	text-align: center;
 }
-h1{
-font-family: helvetica;
+h1 {
+font-family: Anton, helvetica;
+font-size: 500%;
+}
+h2 {
+color: black;
+font-family: Lora, helvetica;
+font-style: bold, italic;
 }
