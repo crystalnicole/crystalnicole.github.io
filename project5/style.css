@@ -13,8 +13,17 @@ color: black;
 font-family: Lora, helvetica;
 }
 nav {
-	color: white
 	background-color: #dab547;
-	text-align: center;
 	font-size: 300%;
+	width: 400px;
+	margin: 20px auto;
+	padding: 40px;
+}
+
+a:link {
+	margin: 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: luckiest guy, helvetica;
+	color: white;
 }
