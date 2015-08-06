@@ -15,5 +15,6 @@ font-family: Lora, helvetica;
 nav {
 	color: white
 	background-color: #dab547;
-	text-align: right;
+	text-align: center;
+	font-size: 300%;
 }
