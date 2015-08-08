@@ -6,7 +6,9 @@ body {
 h1 {
 	color: #787878;
 	font-family: Bangers, Impact;
-	font-size: 72px;
+	font-size: 700%;
+	letter-spacing: 8px;
+	line-height: 1%;
 }
 h2 {
 	color: black;
@@ -16,22 +18,22 @@ h3 {
 	color: black;
 	font-family: Lobster, Impact;
 }
-#wrapping {
-	width: 1000px;
-	margin: auto;
-}
 nav {
-	background-color: #dab547;
-	font-size: 300%;
-	width: 400px;
+	background-color: black;
+	font-size: 200%;
+	width: 900px;
 	margin: 20px auto;
 	padding: 40px;
+	float: none;
 }
-
 a:link {
 	margin: 20px;
 	text-decoration: none;
-	text-transform: uppercase;
-	font-family: luckiest guy, helvetica;
+	font-family: Bangers, helvetica;
 	color: white;
+	display: inline-block;
+	width: 100px;
+}
+a:hover {
+	color: red;
 }
