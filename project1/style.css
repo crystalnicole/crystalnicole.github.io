@@ -17,17 +17,20 @@ h2 {
 }
 h3 {
 	color: black;
-	font-family: Lobster, Impact;
+	font-family: Bangers, Impact;
+	font-size: 300%
 }
-
+nav a {
+display: inline-block;
+}
 
 nav {
 	background-color: black;
 	font-size: 200%;
-	width: 900px;
 	margin: 20px auto;
 	padding: 40px;
 	float: none;
+	line-height: 0.5%;
 }
 a:link {
 	margin: 20px;
@@ -40,6 +43,7 @@ a:link {
 a:hover {
 	color: red;
 }
+<<<<<<< Updated upstream
 .clearfix:after { 
    content: "."; 
    visibility: hidden; 
@@ -47,3 +51,13 @@ a:hover {
    height: 0; 
    clear: both;
 }
+=======
+
+footer {
+color: white;
+background-color: black;
+font-family: Bangers, Impact;
+	font-size: 200%;
+	float: none;
+}
+>>>>>>> Stashed changes
