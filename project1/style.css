@@ -1,3 +1,4 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	color: black;
 	font-family: Questrial, helvetica;
@@ -38,4 +39,11 @@ a:link {
 }
 a:hover {
 	color: red;
+}
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
 }
