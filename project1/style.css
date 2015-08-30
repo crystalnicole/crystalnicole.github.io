@@ -23,6 +23,10 @@ li {
 	color: black;
 	font-family: Impact;
 }
+p {
+	color: black;
+	font-family: Questrial;
+}
 nav a {
 display: inline-block;
 }
