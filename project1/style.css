@@ -19,6 +19,10 @@ h3 {
 	font-family: Bangers, Impact;
 	font-size: 300%
 }
+li {
+	color: black;
+	font-family: Impact;
+}
 nav a {
 display: inline-block;
 }
