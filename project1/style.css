@@ -19,10 +19,6 @@ h3 {
 	font-family: Special Elite, Impact;
 	font-size: 300%
 }
-li {
-	color: black;
-	font-family: Bangers;
-}
 p {
 	color: black;
 	font-family: Special Elite;
@@ -30,10 +26,8 @@ p {
 nav a {
 display: inline-block;
 }
-
 nav {
 	background-color: black;
-	font-family: Special Elite;
 	font-size: 200%;
 	margin: 20px auto;
 	padding: 40px;
@@ -43,7 +37,7 @@ nav {
 a:link {
 	margin: 20px;
 	text-decoration: none;
-	font-family: Bangers, helvetica;
+	font-family: Special Elite, helvetica;
 	color: white;
 	display: inline-block;
 	width: 100px;
